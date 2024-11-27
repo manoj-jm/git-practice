@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Inserted line
 file modified 3rd time
 Hello This is line one 
+=======
+Hello This is line one 
+>>>>>>> parent of df2d8be (file is modified)
